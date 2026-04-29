@@ -25,8 +25,7 @@ letting users "match" with exhibits and get notified about museum events.
 - 👤 Personalized recommendation based on interests
 
 ## Links
-- 🎨 [View Figma Prototype]([FIGMA LINK])
-- 📄 [Project Report]([REPORT LINK nếu có])
+- 🎨 [View Figma Prototype]: https://www.figma.com/proto/z8rF7djQEzpJkoVDwYMj8H/HistoVibe-Group-8?node-id=49-1916&node-type=canvas&t=jZyTBflN0hAciJ0I-1&scaling=scale-down&content-scaling=fixed&page-id=49%3A984&starting-point-node-id=49%3A1916
 
 ## Tech & Tools
 - Figma (UI/UX prototyping)
